@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo ao meu GitHub! Eu sou Moisés Moreira
 
-👨🏻‍💻 Graduando em Sistemas de Infromação, Universidade Federal de Viçosa 
+👨🏻‍💻 Graduando em Sistemas de Infromação, Universidade Federal de Viçosa - UFV
 
-🎯 Pesquisador na área de Visão Computacional, utilizando Redes Neurais Convolucionais 
+🎯 Pesquisador na área de Visão Computacional, utilizando Redes Neurais Convolucionais para detecção de câncer de pulmão.
 
 <div>
   <a href="https://github.com/MMoreira020">
