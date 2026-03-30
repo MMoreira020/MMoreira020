@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=0000FF&center=true&vCenter=true&width=524&lines=Hello+World,+eu+sou+o+Moises+Moreira!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=0000FF&center=true&vCenter=true&width=524&lines=Hello+World,+eu+sou+o+Moises!" />
 </p>
 <!-- teste 1 de subtitulo!
 <div align="center">
