@@ -1,9 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&repeat=false&color=0000FF&center=true&vCenter=true&random=false&width=524&lines=Hello+World,+eu+sou+o+Moisés!+" alt="Typing SVG - Moisés">
-  </a>
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?color=0000FF&lines=Teste" />
+</p>
 <!-- teste 1 de subtitulo!
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&color=FF1D8D&center=true&vCenter=true&repeat=false&width=420&lines=Seja+bem-vindo(a)+ao+meu+GitHub!" alt="Typing SVG">
