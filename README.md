@@ -104,4 +104,9 @@ Desenvolvimento de uma solução para classificação e análise de ocorrências
   <a href="moises.ribeiro@ufv.br"> 
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/> 
   </a> &nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="http://lattes.cnpq.br/6128033973247124"> 
+    <img alt="Lattes" src="https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge"/> 
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
+
