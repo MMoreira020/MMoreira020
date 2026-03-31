@@ -10,7 +10,6 @@
 🎓 **Graduando em Sistemas de Informação - UFV**  
 🎯 Pesquisador em Visão Computacional   
 🧠 Foco em **Deep Learning e Redes Neurais Convolucionais (CNNs)** 
-
 📊 Interesse em **Ciência de Dados, Machine Learning e IA aplicada**  
 ☕ Aprendendo: Python | Machine Learning | Deep Learning (CNNs) | Computer Vision | Data Science | PyTorch | Pandas | Scikit-learn  
 
